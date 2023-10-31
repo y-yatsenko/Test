@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "allowImportingTsExtensions": true,
+        "allowSyntheticDefaultImports": true,
+        "noEmit": true,
+        "module": "ESNext",
+        "moduleResolution": "Node",
+        "outDir": "./dist"
+    },
+    "ts-node": {
+        "esm": true
+    }
+}
